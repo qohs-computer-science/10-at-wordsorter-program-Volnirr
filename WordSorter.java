@@ -2,9 +2,9 @@
  * Liam Gillaspy
  * 10/13
  * Class Period: 6
- * A program that pulls words from an article based off of what the user asks for
- */
-
+ * A program that pulls words from an article based off of what the user asks for 
+ */ 
+ 
 import java.io.File;
 import java.util.Scanner;
 import java.util.ArrayList ;
